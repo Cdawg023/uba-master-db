@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "uba-master-db",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9e09219f-2573-4ebb-8e9e-75fe984a46c5",
+      "database_name": "UnitedBaseballData"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
